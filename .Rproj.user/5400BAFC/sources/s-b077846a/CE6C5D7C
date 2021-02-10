@@ -1,0 +1,26 @@
+{
+    "id": "CE6C5D7C",
+    "path": "~/myRFM/tests/testthat/test-testthat.R",
+    "project_path": "tests/testthat/test-testthat.R",
+    "type": "r_source",
+    "hash": "925723683",
+    "contents": "",
+    "dirty": false,
+    "created": 1612960707654.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612960883,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612960883886,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,10 @@
+library(testthat)
+library(myRFM)
+
+context("correct input")
+
+test_check("myRFM")
+
+test_that ("correct input is given", {
+  expact_type(addFirstTwo(1:4), "integer")
+})

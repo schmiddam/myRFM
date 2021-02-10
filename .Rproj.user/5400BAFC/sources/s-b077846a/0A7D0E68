@@ -1,0 +1,27 @@
+{
+    "id": "0A7D0E68",
+    "path": "~/myRFM/R/Debug_Script.R",
+    "project_path": "R/Debug_Script.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612953718385.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612957959,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612957959959,
+    "read_only": false,
+    "read_only_alternatives": []
+}
